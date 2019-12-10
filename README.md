@@ -17,7 +17,7 @@ resize(100)会将其大小改为100个元素的大小，添加新元素并初始
 
 # 9.43
 
-```
+```cpp
 
 #include<iostream>
 #include<fstream>
@@ -55,7 +55,7 @@ int main(int argc, char**argv)
 	return 0;
 }
 ```
-```
+```cpp
 #include<iostream>  
 #include<fstream>  
 #include<sstream>  
@@ -99,7 +99,7 @@ int main(int argc, char**argv)
 ```
 
 # 10.3
-```
+```cpp
 #include<iostream>
 #include<string>
 #include<vector>
@@ -123,7 +123,7 @@ int main(int argc, char**argv)
 ```
 
 # 10.34
-```
+```cpp
 #include<vector>  
 #include<algorithm>  
 #include<numeric>  
@@ -146,7 +146,7 @@ int main(int argc, char**argv)
 }
 ```
 # 10.42
-```
+```cpp
 
 #include<iostream>  
 #include<fstream>
@@ -175,7 +175,7 @@ int main(int argc, char**argv)
 } 
 ```
 # 11.12
-```
+```cpp
 
 #include<iostream>  
 #include<string>  
