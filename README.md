@@ -17,7 +17,7 @@ resize(100)会将其大小改为100个元素的大小，添加新元素并初始
 
 # 9.43
 
-```
+```cpp
 
 #include<iostream>
 #include<fstream>
